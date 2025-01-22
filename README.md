@@ -1,4 +1,4 @@
-# getxcont
+# frame work of calculator and camera using getx
 
 A new Flutter project.
 
